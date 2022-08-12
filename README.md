@@ -14,6 +14,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+### `npx json-server --watch data/db.json --port 8000`
+
+Run the json server on port 8000. Default json server port is 3000. The db.json file has created inside the data folder. 
+# endpoints 
+    /blogs          GET         Fetch all blogs
+    /blogs/{id}     GET         Fetch a single blog
+    /blogs          POST        Add a new blog
+    /blogs/{id}     DELETE      Delete a blog
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
