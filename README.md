@@ -37,3 +37,5 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+<video controls src="Upe Blog - Google Chrome 2025-03-01 20-27-16.mp4" title="Title"></video>
